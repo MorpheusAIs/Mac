@@ -1,9 +1,6 @@
-
-Morhpheus Node Setup
-
-
-
-Windows OS Systems
+## Morhpheus Node Setup
+----
+#### Windows OS Systems
 
 Prerequisites
 
