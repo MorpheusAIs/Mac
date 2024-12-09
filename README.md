@@ -5,11 +5,11 @@
 Prerequisites:
 
 **Node.js for Windows**
-    Follow the instructions listed here for Node.js setup:
+    Follow the instructions listed here for Node.js setup
         • https://phoenixnap.com/kb/install-node-js-npm-on-windows
 
 **Yarn for Windows**
-    Follow the instructions listed here for Yarn Package Manager setup:
+    Follow the instructions listed here for Yarn Package Manager setup
           •	https://phoenixnap.com/kb/yarn-windows
 
 **1. Create Project Directory**
