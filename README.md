@@ -34,7 +34,7 @@ Navigate to the command line of the Morpheus client local repository, then type 
    
         yarn
 
-    This will set up all node modules needed.
+This will set up all node modules needed.
 
 **4. Build the Morpheus Client App**
 From a command line at the root directory of the local Morpheus Client repo, build the client executable, type:
