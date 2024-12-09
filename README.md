@@ -30,7 +30,7 @@ From a command line at the project directory (created in #1), type:
 **3. Project Environment Setup**
 Set up the modules and components using the Yarn Package Manager
 
-    Navigate to the command line of the Morpheus client local repository, then type the following command:
+Navigate to the command line of the Morpheus client local repository, then type the following command:
    
         yarn
 
