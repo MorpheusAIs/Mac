@@ -48,6 +48,7 @@ Upon successful build, run the Morpheus client app by clicking the following exe
 ```
 <PATH-TO-LOCAL-MORPHEUS-CLIENT-REPO>\Lite-Client-main\out\morpheus-win32-x64.exe
 ```
+----
 #### Linux OS Systems
 
 Prerequisites
