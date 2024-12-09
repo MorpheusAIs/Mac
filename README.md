@@ -48,6 +48,52 @@ Upon successful build, run the Morpheus client app by clicking the following exe
 ```
 <PATH-TO-LOCAL-MORPHEUS-CLIENT-REPO>\Lite-Client-main\out\morpheus-win32-x64.exe
 ```
+#### Linux OS Systems
+
+### Prerequisites
+
+ 1. **Install Node.js and npm:** 
+```
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.4/install.sh | bash
+source ~/.bashrc
+nvm install node
+```
+
+2. **Install Yarn:**
+```
+npm install --global yarn
+```
+
+3. **Clone the Repository:**
+- Create a Project Directory:
+```
+mkdir ~/projects
+cd ~/projects
+```
+- Clone the Lite Client Repository:
+```
+git clone https://github.com/MorpheusAIs/Lite-Client.git
+cd Lite-Client
+```
+
+### Set Up the Project
+
+4. **Install Dependencies:**
+- After navigating to the Lite-Client directory run 
+```
+yarn
+```
+5. **Build the Application:**
+- Build the Morpheus Client App:
+```
+yarn make
+```
+
+6. Run the Morpheus Client:
+- After building, you can find the executable in the `out` directory. Execute it with:
+```
+./out/morpheus-linux-x64
+```
 
 ----
 **NOTES**
