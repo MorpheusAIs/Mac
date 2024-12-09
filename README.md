@@ -13,6 +13,7 @@ Follow the instructions listed [here](https://phoenixnap.com/kb/yarn-windows) fo
 
 
 **1. Create Project Directory**
+
 Open a Windows command prompt and create a project folder and put your command line at that directory
   
 I.e. Presume the starting directory is: C:\projects
