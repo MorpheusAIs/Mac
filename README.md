@@ -5,16 +5,16 @@
 Prerequisites:
 
 **Node.js for Windows:**
-Follow the instructions listed [here](https://phoenixnap.com/kb/install-node-js-npm-on-windows) for Node.js setup
+Follow the instructions listed [here](https://phoenixnap.com/kb/install-node-js-npm-on-windows) for Node.js setup.
 
 
 **Yarn for Windows:**
-Follow the instructions listed [here](https://phoenixnap.com/kb/yarn-windows) for Yarn Package Manager setup
+Follow the instructions listed [here](https://phoenixnap.com/kb/yarn-windows) for Yarn Package Manager setup.
 
 
 **1. Create Project Directory**
 
-Open a Windows command prompt and create a project folder and put your command line at that directory
+Open a Windows command prompt and create a project folder and put your command line at that directory.
   
 I.e. Presume the starting directory is: C:\projects
 
@@ -51,15 +51,15 @@ Upon successful build, run the Morpheus client app by clicking the following exe
 ----
 **NOTES**
 
-•	Additional Run, Test, and Build scripts are located in the package.json configuration file in the root directory of the Morpheus client repo
+•	Additional Run, Test, and Build scripts are located in the package.json configuration file in the root directory of the Morpheus client repo.
 
 •	Please visit https://mor.software/ to sign up as a developer to be rewarded for your merged contributions. Submit an MRC to get support for feature and improvement ideas.
 
 •	https://mor.software/ is also the place to build, submit, deploy, and manage all of your Smart Agents.
 
-•	Be sure to complete these steps from an account with administrative access to the host machine
+•	Be sure to complete these steps from an account with administrative access to the host machine.
 
-•	The initial start of the application may take extended time to start due to the initial configuration and run of the application
+•	The initial start of the application may take extended time to start due to the initial configuration and run of the application.
 
 ----
 
