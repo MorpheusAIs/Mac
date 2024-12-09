@@ -62,6 +62,6 @@ I.e. Presume the starting directory is: C:\projects
 
 ----
 
-### Windows installer instructions (Google Doc format)
-[Google Doc](https://docs.google.com/document/d/1YjGAlTzglct8aNEqZAUeYD7SAmOETtmv/edit?usp=sharing&ouid=118042204753952761929&rtpof=true&sd=true)
+### Windows installer instructions ([Google Doc](https://docs.google.com/document/d/1YjGAlTzglct8aNEqZAUeYD7SAmOETtmv/edit?usp=sharing&ouid=118042204753952761929&rtpof=true&sd=true))
+
 
