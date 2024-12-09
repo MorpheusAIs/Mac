@@ -4,11 +4,11 @@
 
 Prerequisites:
 
-**Node.js for Windows**
+**Node.js for Windows:**
 Follow the instructions listed here for Node.js setup
 - https://phoenixnap.com/kb/install-node-js-npm-on-windows
 
-**Yarn for Windows**
+**Yarn for Windows:**
 Follow the instructions listed here for Yarn Package Manager setup
 - https://phoenixnap.com/kb/yarn-windows
 
