@@ -50,7 +50,7 @@ Upon successful build, run the Morpheus client app by clicking the following exe
 ```
 #### Linux OS Systems
 
-### Prerequisites
+Prerequisites
 
  1. **Install Node.js and npm:** 
 ```
